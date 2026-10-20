@@ -1,0 +1,4 @@
+selenium
+behave
+python-dotenv
+psycopg2-binary
